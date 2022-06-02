@@ -1,0 +1,20 @@
+body {
+  background-color: #DDFFFF ;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.defaut {
+  border: 2px solid black ;
+  border-radius: 5px;
+  width: 50%;
+}
+
